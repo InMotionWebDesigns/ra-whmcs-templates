@@ -1,0 +1,228 @@
+/* *****************************************************
+
+    ** Custom Stylesheet **
+
+    Any custom styling you want to apply should be
+    defined here.
+
+***************************************************** */
+@import url('https://fonts.googleapis.com/css?family=Julius+Sans+One');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+h1, h2, h3{
+    font-family: 'Julius Sans One', sans-serif;
+}
+p, a{
+    font-family: 'Open Sans', sans-serif;
+}
+
+a{
+    color: #023C79;
+}
+a:focus, a:hover{
+    color: #b2aca2;
+}
+h2{
+    color: #011f3f;
+}
+
+#top-nav a.quick-nav{
+    color: #fff;
+}
+section#header{
+    background: #011f3f;
+}
+section#main-menu{
+    background-color: #011f3f;
+}
+section#home-banner{
+    background-color: #b2aca2;
+}
+section#footer{
+    background-color: #011f3f;
+}
+section#footer p{
+    color: #fff;
+    border-top: 20px solid #011f3f;
+}
+
+.navbar-main .navbar-nav > li > a{
+    color: #fff;
+    border-bottom: 3px solid transparent;
+}
+.navbar-main{
+    background-color: #011f3f;
+}
+.navbar-main .navbar-nav > li > a:hover, .navbar-main .navbar-nav > li > a:focus, .navbar-main .navbar-nav > li > a:active{
+    color: #fff;
+    border-bottom: 3px solid #023C79;
+    background-color: #011f3f;
+}
+.navbar-main .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus{
+    background-color: #011f3f;
+}
+
+.btn-warning{
+    background-color: #023C79;
+    border-color: #023C79;
+}
+.btn-warning:focus, .btn-warning:hover{
+    background-color: #CBAB53;
+    border-color: #CBAB53;
+}
+.btn-info{
+    background-color: #011f3f;
+    border-color: #011f3f;
+}
+.btn-info:focus, .btn-info:hover{
+    background-color: #023C79;
+    border-color: #023C79;
+}
+
+.home-shortcuts{
+    background: #023C79;
+}
+.home-shortcuts li:first-child{
+    border-left: 1px solid #fff;
+}
+.home-shortcuts li{
+    border-right: 1px solid #fff;
+}
+
+.label-warning{
+    background-color: #023C79;
+}
+.label-warning[href]:focus, .label-warning[href]:hover{
+    background-color: #CBAB53;
+}
+.label{
+    color: #fff;
+}
+.label-default{
+    background-color: #b2aca2;
+}
+.whmcslogo a {
+	color: #fff;
+	font-size: 36px;
+}
+.whmcslogo a:hover {
+    text-decoration: none;
+}
+.whmcslogo img {
+    max-height: 65px !important;
+}
+
+
+
+/**
+ * -------------------------
+ * Custom Reseller 1.0
+ * -------------------------
+ */
+ 
+ /**
+ * -------------------------
+ * @Cool Palette
+ * -------------------------
+ */
+ a {
+	 color: #223e4d;
+ } 
+ 
+#top-nav a,
+a:hover,
+#main-menu .navbar-right,
+a.list-group-item:hover,
+a.list-group-item:focus,
+a.list-group-item:active,
+.navbar-main .navbar-nav > li > a:hover, .navbar-main .navbar-nav > li > a:focus, .navbar-main .navbar-nav > .active > a, .navbar-main .navbar-nav > .active > a:hover, .navbar-main .navbar-nav > .active > a:focus, .navbar-main .navbar-nav > .open > a, .navbar-main .navbar-nav > .open > a:hover, .navbar-main .navbar-nav > .open > a:focus {
+	color: #e4ecf0 !important;
+}
+#order-standard_cart .view-cart-items-header,
+#order-standard_cart .order-summary,
+section#footer p,
+section#header,
+#main-menu .navbar-right,
+.navbar-main,
+a.list-group-item:hover,
+a.list-group-item:focus,
+a.list-group-item:active {
+	background-color: #223e4d !important;
+}
+section#header {
+    margin: 0;
+    padding: 10px 0;
+    border-radius: 5px 5px 0 0;
+}
+
+.panel>.list-group a:active {
+	color: #fff !important;
+}
+
+#order-standard_cart .order-summary {
+	border-bottom: 3px solid #223e4d !important;
+}
+
+section#footer p {
+    border-top: 20px solid #223e4d !important;
+}
+
+.btn-success.disabled, .btn-success.disabled.active, .btn-success.disabled.focus, .btn-success.disabled:active, .btn-success.disabled:focus, .btn-success.disabled:hover, .btn-success[disabled], .btn-success[disabled].active, .btn-success[disabled].focus, .btn-success[disabled]:active, .btn-success[disabled]:focus, .btn-success[disabled]:hover, fieldset[disabled] .btn-success, fieldset[disabled] .btn-success.active, fieldset[disabled] .btn-success.focus, fieldset[disabled] .btn-success:active, fieldset[disabled] .btn-success:focus, fieldset[disabled] .btn-success:hover,
+.btn-primary,
+.btn-success,
+.btn-primary:hover,
+.btn-success:hover,
+.btn-block {
+	background-color: #6298b3;
+	border-color: #6298b3;
+	color: #fff;
+}
+
+#main-menu .navbar-nav {
+	display: none;
+}
+#main-menu .navbar-right {
+	display: inline;
+}
+
+a.list-group-item {
+	color: #223e4d !important;
+}
+
+
+#Secondary_Navbar-Account a:hover,
+#Secondary_Navbar-Account a:focus {
+	background-color: #223e4d !important;
+}
+
+.home-shortcuts,
+.btn-warning,
+.btn-info {
+	background: #223e4d;
+	border: 1px solid #e4ecf0;
+}
+.btn-info:hover,
+.btn-warning:hover {
+	background: #e4ecf0;
+	border: 1px solid #223e4d;
+	color: #000;
+}
+.label-warning,
+.label-warning a:hover {
+	background: #223e4d !important;
+}
+section#home-banner {
+	background: #fafafa;
+}
+#order-standard_cart .view-cart-tabs {
+display: none;
+}
+.domain-promo-box,
+#Secondary_Sidebar-Actions-Domain_Transfer{
+    display: none !important;
+}
+
+/** Comment this rule out to Enable Add Hosting Link **/
+#frmConfigureDomains .form-group a {
+    display: none !important;
+}
