@@ -1,0 +1,195 @@
+/* *****************************************************
+
+    ** Custom Stylesheet **
+
+    Any custom styling you want to apply should be
+    defined here.
+
+***************************************************** */
+
+/**
+ * -------------------------
+ * General
+ * -------------------------
+ */
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+h1, h2, h3,
+p, a {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+#home-banner h2 {
+    color: #fff;
+}
+section#header {
+    margin: 0;
+    padding: 10px 0;
+    border-radius: 5px 5px 0 0;
+}
+section#main-menu {
+    background-color: #011f3f;
+}
+section#footer {
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+}
+.home-shortcuts li:first-child {
+    border-left: 1px solid #fff;
+}
+.home-shortcuts li {
+    border-right: 1px solid #fff;
+}
+.whmcslogo a {
+	font-size: 36px;
+}
+.whmcslogo a:hover {
+    text-decoration: none;
+}
+.whmcslogo img {
+    max-height: 65px !important;
+}
+
+/**
+ * -------------------------
+ * Nav
+ * -------------------------
+ */
+.navbar-main .navbar-nav > li > a {
+    color: #333;
+    border-bottom: 3px solid transparent;
+}
+.navbar-main {
+    border-bottom: 5px solid #e0dfdf;
+}
+.navbar-main .navbar-nav > li > a:hover, .navbar-main .navbar-nav > li > a:focus, .navbar-main .navbar-nav > li > a:active,
+.navbar-main .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus{
+    color: #fab142;
+    background-color: #f1f1f1;
+}
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover {
+    border-color: #fab142;
+}
+
+/**
+ * -------------------------
+ * Buttons
+ * -------------------------
+ */
+.btn-warning,
+.btn-info:focus, .btn-info:hover,
+.label-warning[href]:focus, .label-warning[href]:hover {
+    background-color: #fab142;
+}
+.btn-warning:focus, .btn-warning:hover,
+.btn-info {
+    background-color: #fab142;
+    border-color: #fab142;
+}
+.label {
+    color: #fff;
+}
+.label-default {
+    background-color: #b2aca2;
+}
+
+ /**
+ * -------------------------
+ * RA - Exordium Theme
+ * -------------------------
+ */
+ a {
+	 color: #333;
+ } 
+#top-nav a,
+a:hover,
+#main-menu .navbar-right,
+a.list-group-item:hover,
+a.list-group-item:focus,
+a.list-group-item:active,
+.navbar-main .navbar-nav > li > a:hover, .navbar-main .navbar-nav > li > a:focus, .navbar-main .navbar-nav > .active > a, .navbar-main .navbar-nav > .active > a:hover, .navbar-main .navbar-nav > .active > a:focus, .navbar-main .navbar-nav > .open > a, .navbar-main .navbar-nav > .open > a:hover, .navbar-main .navbar-nav > .open > a:focus,
+div.header-lined h1,
+#top-nav a.quick-nav,
+.alert-danger,
+.whmcslogo a,
+#order-standard_cart .order-summary h2,
+#order-standard_cart .view-cart-items-header,
+a.list-group-item {
+	color: #333 !important;
+}
+#order-standard_cart .view-cart-items-header,
+#order-standard_cart .order-summary,
+section#footer p,
+section#header,
+#main-menu .navbar-right,
+.navbar-main,
+a.list-group-item:hover,
+a.list-group-item:focus,
+a.list-group-item:active,
+a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.active:focus {
+	background-color: #f1f1f1 !important;
+    color: #333 !important;
+}
+a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.active:focus {
+    border-color: #f1f1f1;
+}
+.panel>.list-group a:active {
+	color: #fff !important;
+}
+#order-standard_cart .order-summary,
+#order-standard_cart .view-cart-items {
+	border-bottom: 3px solid #fab142 !important;
+}
+section#footer p {
+    border-top: 5px solid #e0dfdf !important;
+}
+.btn-success.disabled, .btn-success.disabled.active, .btn-success.disabled.focus, .btn-success.disabled:active, .btn-success.disabled:focus, .btn-success.disabled:hover, .btn-success[disabled], .btn-success[disabled].active, .btn-success[disabled].focus, .btn-success[disabled]:active, .btn-success[disabled]:focus, .btn-success[disabled]:hover, fieldset[disabled] .btn-success, fieldset[disabled] .btn-success.active, fieldset[disabled] .btn-success.focus, fieldset[disabled] .btn-success:active, fieldset[disabled] .btn-success:focus, fieldset[disabled] .btn-success:hover,
+.btn-primary,
+.btn-success,
+.btn-primary:hover,
+.btn-success:hover,
+.btn-block {
+	background-color: #fab142;
+	border-color: #fab142;
+	color: #fff;
+}
+#main-menu .navbar-right {
+	display: inline;
+}
+.home-shortcuts {
+    background: #fab142;
+}
+#Secondary_Navbar-Account a:hover,
+#Secondary_Navbar-Account a:focus {
+	background-color: #f1f1f1 !important;
+}
+.btn-warning,
+.btn-info {
+	background: #fab142;
+	border: 1px solid #e4ecf0;
+}
+.btn-info:hover,
+.btn-warning:hover {
+	background: #fab142;
+    border: 1px solid #e4ecf0;
+	color: #333;
+}
+.label-warning,
+.label-warning a:hover {
+	background: #fab142 !important;
+}
+section#home-banner,
+.domain-checker-bg {
+	background: url('../img/domain-bg.png') no-repeat;
+}
+#order-standard_cart .view-cart-tabs,
+.domain-promo-box,
+#Secondary_Sidebar-Actions-Domain_Transfer,
+#main-menu .navbar-nav {
+    display: none !important;
+}
+
+/** Comment this rule out to Enable Add Hosting Link **/
+#frmConfigureDomains .form-group a {
+    display: none !important;
+}
