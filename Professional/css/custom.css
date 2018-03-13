@@ -178,6 +178,7 @@ a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.acti
 section#home-banner,
 .domain-checker-bg {
 	background: url('../img/domain-bg.png') no-repeat;
+	background-size: cover;
 }
 #home-banner h2,
 #home-banner p {
