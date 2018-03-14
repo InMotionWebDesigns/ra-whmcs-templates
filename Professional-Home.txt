@@ -30,28 +30,28 @@
 <div class="row">
 <div class="icon-flex">
 <div class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-0 col-md-3">
-<div class="icon-section"><i class="icon-sprite icon-sprite-money"></i>
+<div class="icon-section">[icon name="icon-sprite-money" class="icon-sprite icon-sprite-money"]
 <h3>Affordable</h3>
 Let’s save you some money with our competitive pricing
 
 </div>
 </div>
 <div class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-0 col-md-3">
-<div class="icon-section"><i class="icon-sprite icon-sprite-padlock"></i>
+<div class="icon-section">[icon name="icon-sprite-padlock" class="icon-sprite icon-sprite-padlock"]
 <h3>Secure</h3>
 We keep your website secure for your needs
 
 </div>
 </div>
 <div class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-0 col-md-3">
-<div class="icon-section"><i class="icon-sprite icon-sprite-shield"></i>
+<div class="icon-section">[icon name="icon-sprite-shield" class="icon-sprite icon-sprite-shield"]
 <h3>Reliable</h3>
 Let us shield you with our durablility
 
 </div>
 </div>
 <div class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-0 col-md-3">
-<div class="icon-section"><i class="icon-sprite icon-sprite-shooting-star"></i>
+<div class="icon-section">[icon name="icon-sprite-shooting-star" class="icon-sprite icon-sprite-shooting-star"]
 <h3>Top Rated</h3>
 Our customer service has been highly rated
 
