@@ -1,4 +1,4 @@
-<div id="domains" class="container-fluid background-primary boldgrid-section domains">
+<div id="domains" class="background-primary boldgrid-section domains">
 <h1>Search For Your New Domain Here!</h1>
 <div class="row">
 <div class="col-xs-1 col-sm-2 col-md-2"></div>
@@ -7,7 +7,7 @@
 </div>
 </div>
 </div>
-<div id="about" class="container-fluid background-secondary boldgrid-section about">
+<div id="about" class="background-secondary boldgrid-section about">
 <div class="container">
 <div class="row">
 <div class="col-xs-1 col-sm-2 col-md-4"></div>
@@ -20,7 +20,7 @@
 <div class="col-xs-1 col-sm-2 col-md-1 col-lg-2"></div>
 <div class="col-xs-10 col-sm-8 col-md-10 col-lg-8">
 <p class="text-center">Reseller Advantage allows you to quickly and easily register your new domain. A domain is the first impression of your website. Act now to ensure no one else registers your perfect domain before you get the chance!</p>
-<img class="about-img" src="wp-content/themes/ra-professional/images/domaingraphic.png">
+<img class="about-img" src="http://reseller-advantage-imw-training.com/wp-content/themes/ra-professional/images/domaingraphic.png">
 
 </div>
 </div>
@@ -32,7 +32,7 @@
 <div class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-0 col-md-3">
 <div class="icon-section">[icon name="icon-sprite-money" class="icon-sprite icon-sprite-money"]
 <h3>Affordable</h3>
-Let’s save you some money with our competitive pricing
+Letâ€™s save you some money with our competitive pricing
 
 </div>
 </div>
@@ -97,7 +97,7 @@ Our customer service has been highly rated
 </div>
 </div>
 </div>
-<div id="contact" class="container-fluid background-tertiary boldgrid-section contact">
+<div id="contact" class="background-tertiary boldgrid-section contact">
 <div class="container">
 <div class="row gridblock">
 <div class="col-xs-1 col-sm-2 col-md-4"></div>
@@ -113,7 +113,7 @@ Our customer service has been highly rated
 
 <div class="form-container">
 
-[wpforms id="32" title="false" description="false"]
+[wpforms id="40" description="false" title="false"]
 
 </div>
 </div>
