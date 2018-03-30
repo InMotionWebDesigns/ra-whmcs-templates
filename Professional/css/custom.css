@@ -66,6 +66,9 @@ section#footer {
 .nav .open>a, .nav .open>a:focus, .nav .open>a:hover {
     border-color: #fab142;
 }
+.navbar-default .navbar-toggle {
+    display: none !important;
+}
 
 /**
  * -------------------------
