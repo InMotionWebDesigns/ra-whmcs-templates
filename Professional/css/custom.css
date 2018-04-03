@@ -194,9 +194,11 @@ section#home-banner,
     display: none !important;
 }
 section#footer p {
-    border-top: 5px solid #1c5e90;
+    border-top: 5px solid #1c5e90 !important;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
-
 /** Comment this rule out to Enable Add Hosting Link **/
 #frmConfigureDomains .form-group a {
     display: none !important;

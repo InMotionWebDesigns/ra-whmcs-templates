@@ -145,6 +145,9 @@ a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.acti
 }
 section#footer p {
     border-top: 5px solid #e0dfdf !important;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 .btn-success.disabled, .btn-success.disabled.active, .btn-success.disabled.focus, .btn-success.disabled:active, .btn-success.disabled:focus, .btn-success.disabled:hover, .btn-success[disabled], .btn-success[disabled].active, .btn-success[disabled].focus, .btn-success[disabled]:active, .btn-success[disabled]:focus, .btn-success[disabled]:hover, fieldset[disabled] .btn-success, fieldset[disabled] .btn-success.active, fieldset[disabled] .btn-success.focus, fieldset[disabled] .btn-success:active, fieldset[disabled] .btn-success:focus, fieldset[disabled] .btn-success:hover,
 .btn-primary,
