@@ -29,11 +29,6 @@ section#header {
 section#main-menu {
     background-color: #011f3f;
 }
-section#footer {
-    bottom: 0;
-    position: absolute;
-    width: 100%;
-}
 .home-shortcuts li:first-child {
     border-left: 1px solid #fff;
 }
@@ -145,8 +140,8 @@ a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.acti
 }
 section#footer p {
     border-top: 5px solid #e0dfdf !important;
-    position: fixed;
-    bottom: 0;
+}
+section#footer {
     width: 100%;
 }
 .btn-success.disabled, .btn-success.disabled.active, .btn-success.disabled.focus, .btn-success.disabled:active, .btn-success.disabled:focus, .btn-success.disabled:hover, .btn-success[disabled], .btn-success[disabled].active, .btn-success[disabled].focus, .btn-success[disabled]:active, .btn-success[disabled]:focus, .btn-success[disabled]:hover, fieldset[disabled] .btn-success, fieldset[disabled] .btn-success.active, fieldset[disabled] .btn-success.focus, fieldset[disabled] .btn-success:active, fieldset[disabled] .btn-success:focus, fieldset[disabled] .btn-success:hover,

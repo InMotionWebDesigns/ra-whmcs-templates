@@ -28,11 +28,6 @@ section#main-menu,
 .navbar-main {
     background-color: #1c5e90;
 }
-section#footer {
-    bottom: 0;
-    position: absolute;
-    width: 100%;
-}
 .home-shortcuts li:first-child {
     border-left: 1px solid #fff;
 }
@@ -194,9 +189,9 @@ section#home-banner,
     display: none !important;
 }
 section#footer p {
-    border-top: 5px solid #1c5e90 !important;
-    position: fixed;
-    bottom: 0;
+    border-top: 5px solid #e0dfdf !important;
+}
+section#footer {
     width: 100%;
 }
 /** Comment this rule out to Enable Add Hosting Link **/
