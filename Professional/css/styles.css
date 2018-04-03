@@ -312,11 +312,11 @@ section#home-banner h2 {
     display: block;
     float: none;
     width: 100%;
-    border-right: 0;
+    border-right: 0 !important;
     border-bottom: 1px solid #0E88B0;
   }
   .home-shortcuts li:first-child {
-    border-left: 0;
+    border-left: 0 !important;
   }
   .home-shortcuts li:last-child {
     border: 0;
