@@ -188,10 +188,17 @@ section#home-banner,
 #main-menu .navbar-nav {
     display: none !important;
 }
+section#main-body {
+    min-height: 77vh;
+    overflow: hidden;
+    padding-bottom: 45px;
+    position: relative;
+}
 section#footer p {
     border-top: 5px solid #e0dfdf !important;
 }
 section#footer {
+    position: absolute;
     width: 100%;
 }
 /** Comment this rule out to Enable Add Hosting Link **/
