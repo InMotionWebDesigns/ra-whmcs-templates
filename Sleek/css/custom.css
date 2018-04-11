@@ -138,10 +138,17 @@ a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.acti
 #order-standard_cart .view-cart-items {
 	border-bottom: 3px solid #fab142 !important;
 }
+section#main-body {
+    min-height: 77vh;
+    overflow: hidden;
+    padding-bottom: 45px;
+    position: relative;
+}
 section#footer p {
     border-top: 5px solid #e0dfdf !important;
 }
 section#footer {
+    position: absolute;
     width: 100%;
 }
 .btn-success.disabled, .btn-success.disabled.active, .btn-success.disabled.focus, .btn-success.disabled:active, .btn-success.disabled:focus, .btn-success.disabled:hover, .btn-success[disabled], .btn-success[disabled].active, .btn-success[disabled].focus, .btn-success[disabled]:active, .btn-success[disabled]:focus, .btn-success[disabled]:hover, fieldset[disabled] .btn-success, fieldset[disabled] .btn-success.active, fieldset[disabled] .btn-success.focus, fieldset[disabled] .btn-success:active, fieldset[disabled] .btn-success:focus, fieldset[disabled] .btn-success:hover,
