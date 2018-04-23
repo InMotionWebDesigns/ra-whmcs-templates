@@ -3,7 +3,8 @@
 <div class="row">
 <div class="col-xs-1 col-sm-2 col-md-2"></div>
 <div class="col-xs-10 col-sm-8 col-md-8">
-<div class="text-center">[resellerdomainsearch width="400"]</div></div>
+<div class="text-center">[resellerdomainsearch width="400"]</div>
+</div>
 </div>
 </div>
 <div id="about" class="container-fluid background-secondary boldgrid-section about">
@@ -25,39 +26,39 @@
 <div class="row">
 <div class="icon-flex">
 <div class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-0 col-md-3">
-<div class="icon-section">
-[icon name="icon-sprite-cash" class="icon-sprite icon-sprite-cash"]
+<div class="icon-section">[icon name="icon-sprite-cash" class="icon-sprite icon-sprite-cash"]
 <h3>Affordable</h3>
 Let’s save you some money with our competitive pricing
+
 </div>
 </div>
 <div class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-0 col-md-3">
-<div class="icon-section">
-[icon name="icon-sprite-locked" class="icon-sprite icon-sprite-locked"]
+<div class="icon-section">[icon name="icon-sprite-locked" class="icon-sprite icon-sprite-locked"]
 <h3>Secure</h3>
 We keep your website secure for your needs
+
 </div>
 </div>
 <div class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-0 col-md-3">
-<div class="icon-section">
-[icon name="icon-sprite-shield" class="icon-sprite icon-sprite-shield"]
+<div class="icon-section">[icon name="icon-sprite-shield" class="icon-sprite icon-sprite-shield"]
 <h3>Reliable</h3>
 Let us shield you with our durablility
+
 </div>
 </div>
 <div class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-0 col-md-3">
-<div class="icon-section">
-[icon name="icon-sprite-lace" class="icon-sprite icon-sprite-lace"]
+<div class="icon-section">[icon name="icon-sprite-lace" class="icon-sprite icon-sprite-lace"]
 <h3>Top Rated</h3>
 Our customer service has been highly rated
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
 
-
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="border-bottom: 5px solid #e0dfdf"></div>
+<!--
 <div id="hosting" class="hosting-section container-fluid hosting boldgrid-section">
 <div class="container">
 <div class="row">
@@ -70,8 +71,9 @@ Our customer service has been highly rated
 <div class="row">
 <div class="col-xs-1 col-sm-2 col-md-1 col-lg-2"></div>
 <div class="col-xs-10 col-sm-8 col-md-10 col-lg-8">
-<p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras non commodo ipsum, et volutpat justo. Ut nec nulla lacinia, pretium tellus et, sollicitudin dui. Etiam feugiat sit amet orci quis volutpat. Integer auctor ipsum eget turpis consectetur, laoreet auctor ipsum consectetur. Aenean sit amet rhoncus purus, et dictum mi.<p>
-<h3>A few hosting products to choose from:</h3>
+<p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras non commodo ipsum, et volutpat justo. Ut nec nulla lacinia, pretium tellus et, sollicitudin dui. Etiam feugiat sit amet orci quis volutpat. Integer auctor ipsum eget turpis consectetur, laoreet auctor ipsum consectetur. Aenean sit amet rhoncus purus, et dictum mi.</p>
+
+<h3 class="">A few hosting products to choose from:</h3>
 <ul>
  	<li>Hosting Product Name</li>
  	<li>Hosting Product Name</li>
@@ -79,14 +81,14 @@ Our customer service has been highly rated
  	<li>Hosting Product Name</li>
 </ul>
 <div class="hosting-button btn-primary">
-<a href="account/cart.php?a=view" target="_blank" class="hosting-btn">Buy Hosting Now</a></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+<p class="mod-reset"><a class="hosting-btn" href="account/cart.php?a=view" target="_blank" rel="noopener">Buy Hosting Now</a></p>
 
+</div>
+</div>
+</div>
+</div>
+</div>
+-->
 <div id="contact" class="container-fluid background-tertiary boldgrid-section contact">
 <div class="container">
 <div class="row gridblock">
@@ -97,11 +99,14 @@ Our customer service has been highly rated
 <div class="col-xs-1 col-sm-2 col-md-3"></div>
 </div>
 <div class="row gridblock">
-<div class="col-xs-0 col-sm-3 col-md-3"></div>
+<div class="col-xs-2 col-sm-3 col-md-3"></div>
 <div class="col-xs-12 col-sm-6 col-md-6">
 <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+
 <div class="form-container">
-[wpforms id="32" title="false" description="false"]
+
+[wpforms id="40" description="false" title="false"]
+
 </div>
 </div>
 </div>
