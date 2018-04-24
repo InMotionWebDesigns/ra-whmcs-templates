@@ -58,7 +58,7 @@ Our customer service has been highly rated
 </div>
 </div>
 <div style="border-bottom: 5px solid #e0dfdf"></div>
-<!--
+<!-- Reseller Advantage Hosting Section ->
 <div id="hosting" class="hosting-section container-fluid hosting boldgrid-section">
 <div class="container">
 <div class="row">
@@ -88,7 +88,7 @@ Our customer service has been highly rated
 </div>
 </div>
 </div>
--->
+<!-- Reseller Advantage Hosting Section -->
 <div id="contact" class="container-fluid background-tertiary boldgrid-section contact">
 <div class="container">
 <div class="row gridblock">
